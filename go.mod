@@ -13,7 +13,7 @@ require (
 	github.com/operator-framework/operator-lib v0.7.0
 	github.com/operator-framework/operator-sdk v0.19.4
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.30.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/pulumi/pulumi/sdk/v3 v3.57.1
